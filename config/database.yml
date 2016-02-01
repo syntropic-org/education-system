@@ -1,14 +1,14 @@
 development:
   adapter: postgresql
-  database: check_in_development
+  database: p_education_development
   host: localhost
 
 test:
   adapter: postgresql
-  database: check_in_test
+  database: p_education_test
   host: localhost
 
 production:
   adapter: postgresql
-  database: check_in_production
+  database: p_education_production
   host: localhost
